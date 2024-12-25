@@ -9,8 +9,9 @@
 </div>
 
 <h3 align="center"> 🛠 Tech Stack 🛠</h3>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <div align="center">
-  https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+  
 </div>
 # Tools
 
