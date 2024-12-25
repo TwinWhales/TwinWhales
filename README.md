@@ -9,17 +9,16 @@
 </div>
 
 <h2 align="center"> 🛠 Tech Stack 🛠</h2>
-<!-- language -->
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<!-- Programming Languages -->
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<!-- OS badges -->
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-right: 10px;" />
+<img src="https://img.shields.io/badge/windows-0B2C4A?style=for-the-badge&logo=windows&logoColor=white" />
 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<!-- OS -->
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp
-<img src="https://img.shields.io/badge/windows-0B2C4A?style=for-the-badge&logo=windows&logoColor=white"/>
 
 
 
