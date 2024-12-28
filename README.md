@@ -30,7 +30,9 @@
 
 <h2 align="center"> 💻 Tools 💻</h2>
 <!-- 도구들 -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp;
+
+<!--<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp;-->
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3"/>&nbsp;
@@ -55,14 +57,10 @@
 - 노션
 - 이메일 추가하기
 - htb
-
-<a href="https://www.notion.so/@twin_whales">
+-->
+<a href="https://www.notion.so/Twin_Whales-167b3d3cd58d8061b264fcb011412512?pvs=4">
     <img src="https://img.shields.io/badge/notion-#000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a> 
-
--->
-
-
 
 
 
