@@ -57,9 +57,10 @@
 - 이메일 추가하기
 - htb
 -->
+
 <a href="https://www.notion.so/Twin_Whales-167b3d3cd58d8061b264fcb011412512?pvs=4">
-    <img src="https://img.shields.io/badge/notion-#000000?style=for-the-badge&logo=notion&logoColor=white" />
-  </a> 
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
 
 
 
