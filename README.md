@@ -8,9 +8,21 @@
 
   <!-- Professional Network -->
   <a href="https://app.hackthebox.com/profile/2035208">
-    <img src="https://img.shields.io/badge/HackTheBox-Member-1F8AC0?style=flat-square&logo=hackthebox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackTheBox-Member-9FEF00?style=flat-square&logo=hackthebox&logoColor=black&labelColor=9FEF00&color=9FEF00"/>
+  </a>
+  <a href="https://ctftime.org/team/396952">
+    <img src="https://img.shields.io/badge/CTFtime-Team_G.H.O.S.T-C21325?style=flat-square&logo=target&logoColor=white"/>
   </a>
   
+  <br/>
+
+  ### 🎓 Biography
+  | Period | Organization | Role / Details |
+  | :--- | :--- | :--- |
+  | 2021 ~ 2025 | **HGU** (Handong Global Univ.) | School of Computer Science & EE |
+  | 2023 (2nd Sem) ~ 2025 (2nd Sem) | **G.H.O.S.T** (Security Club) | 36th Member |
+  | 2025 (1st Sem) ~ 2025 (2nd Sem) | **G.H.O.S.T** (Security Club) | **President** |
+
   <br/><br/>
 
   <!-- CTF History -->
@@ -44,9 +56,7 @@
   
   <br/>
   
-  <a href="https://ctftime.org/team/396952">
-    <img src="https://img.shields.io/badge/CTFtime-Team_G.H.O.S.T-C21325?style=flat-square&logo=target&logoColor=white"/>
-  </a>
+
 
 <br/>
 
