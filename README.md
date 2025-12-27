@@ -22,7 +22,7 @@
 
 
   ### 🎓 Biography
----
+
   | Period | Organization | Role / Details |
   | :--- | :--- | :--- |
   | 2021 ~ 2025 | **HGU** (Handong Global Univ.) | School of Computer Science & EE |
@@ -37,7 +37,6 @@
   <!-- CTF History -->
   <h3>🏆 CTF Hall of Fame</h3>
 
----  
 
   <table>
     <tr>
