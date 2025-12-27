@@ -10,16 +10,43 @@
   <a href="https://app.hackthebox.com/profile/2035208">
     <img src="https://img.shields.io/badge/HackTheBox-Member-1F8AC0?style=flat-square&logo=hackthebox&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Solved.ac-Tier-007BFF?style=flat-square&logo=c&logoColor=white"/>
   
   <br/><br/>
 
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TwinWhales&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <!-- CTF History -->
+  <h3>🏆 CTF Hall of Fame</h3>
+  <table>
+    <tr>
+      <th width="300px">Competition</th>
+      <th>Rank</th>
+      <th>Points</th>
+      <th>Rating</th>
+    </tr>
+    <tr>
+      <td align="center"><b>AmateursCTF 2025</b></td>
+      <td align="center">🥇 9th</td>
+      <td align="center">3,197</td>
+      <td align="center">23.937</td>
+    </tr>
+    <tr>
+      <td align="center"><b>World Wide CTF 2025</b></td>
+      <td align="center">🥈 20th</td>
+      <td align="center">7,168</td>
+      <td align="center">13.432</td>
+    </tr>
+    <tr>
+      <td align="center"><b>BackdoorCTF 2025</b></td>
+      <td align="center">🥉 69th</td>
+      <td align="center">1,500</td>
+      <td align="center">16.850</td>
+    </tr>
+  </table>
+  
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=TwinWhales&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-
-</div>
+  
+  <a href="https://ctftime.org/team/396952">
+    <img src="https://img.shields.io/badge/CTFtime-Team_G.H.O.S.T-C21325?style=flat-square&logo=target&logoColor=white"/>
+  </a>
 
 <br/>
 
