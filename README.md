@@ -67,6 +67,23 @@
   </table>
   
   <br/>
+  <br/>
+
+  <h3>🎖️ Honors & Awards</h3>
+  <table>
+    <tr>
+      <th width="200px">Date</th>
+      <th>Event / Organizer</th>
+      <th>Award</th>
+    </tr>
+    <tr>
+      <td align="center">2025.11.21</td>
+      <td align="center"><b>2025 SW Festival</b><br/>(Handong Global Univ. SW Centered Univ.)</td>
+      <td align="center"><b>🥈 Excellence Award</b><br/>(Smart SW Contest - Major Div.)</td>
+    </tr>
+  </table>
+  
+  <br/>
   
 
 
