@@ -1,57 +1,59 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:00c6ff&height=200&section=header&text=TwinWhales&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Digital%20Forensic%20Analyst%20%26%20Security%20Researcher&descAlignY=55&descAlign=50" />
+</div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=TwinWhales@Ghost:~$+./init_profile.sh;%3E+Loading+Digital+Forensics+Modules...;%3E+Target:+Information+Security;%3E+Access+Granted!" alt="Typing SVG" />
+<div align="center">
 
   <br/>
 
-  <!-- HackTheBox Badge -->
+  <!-- Professional Network -->
   <a href="https://app.hackthebox.com/profile/2035208">
-    <img src="https://www.hackthebox.com/badge/image/2035208" alt="HackTheBox" />
+    <img src="https://img.shields.io/badge/HackTheBox-Member-1F8AC0?style=flat-square&logo=hackthebox&logoColor=white"/>
   </a>
+  <img src="https://img.shields.io/badge/Solved.ac-Tier-007BFF?style=flat-square&logo=c&logoColor=white"/>
   
   <br/><br/>
 
   <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TwinWhales&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwinWhales&layout=compact&theme=radical&hide=html,css" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TwinWhales&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwinWhales&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Langs" />
 
 </div>
 
 <br/>
 
-## 🛠 Command Center (Tech Stack)
+## � Forensic Laboratory
 
-### 🕵️ Digital Forensics & Security
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white"/>
+### � Analysis & Investigation
+<img src="https://img.shields.io/badge/Autopsy-Forensics-007BFF?style=flat-square&logo=blue&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/EnCase-Forensic-0056b3?style=flat-square&logo=security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Volatility-Memory_Forensics-2C2C32?style=flat-square&logo=linux&logoColor=white"/>
 
-### 💻 Core Operations
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+### 🔐 Reverse Engineering & Security
+<img src="https://img.shields.io/badge/Ghidra-SRE-000000?style=flat-square&logo=ghidra&logoColor=white"/>
+<img src="https://img.shields.io/badge/IDA_Pro-Disassembler-2C2C32?style=flat-square&logo=idapro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-Penetration_Testing-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
 
-### 📡 Database & Backend
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+### 🛠️ Development & Scripting
+<img src="https://img.shields.io/badge/Python-Automation-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-System_Level-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Environment-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TwinWhales&theme=radical&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TwinWhales&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
 </div>
 
 <br/>
 
-<div align="center"> 
-  <h3>📫 Encrypted Channel</h3>
+<div align="center">
   <a href="https://www.notion.so/Twin-Whales-16fb3d3cd58d8020b64ce6d9442d51b2?pvs=4">
-    <img src="https://img.shields.io/badge/Notion-HQ-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion-Knowledge_Base-000000?style=flat-square&logo=notion&logoColor=white" />
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
