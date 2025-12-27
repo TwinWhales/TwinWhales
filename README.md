@@ -1,67 +1,57 @@
-<div align="center"> 
-<h2> History & Certification </h2>
-  GHOST 2023 ~ 👻
-
-  <br><h2> ✨ Status ✨ </h2></br>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TwinWhales&show_icons=true&theme=tokyonight)
-  <br></br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TwinWhales&layout=compact)
-</div>
-
-<h2 align="center"> 🛠 Tech Stack 🛠</h2>
-<!-- language -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/c%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-
-
-<!-- OS -->
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/windows-0B2C4A?style=for-the-badge&logo=windows&logoColor=white"/>
-
-
-
 <div align="center">
 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=435&lines=TwinWhales@Ghost:~$+./init_profile.sh;%3E+Loading+Digital+Forensics+Modules...;%3E+Target:+Information+Security;%3E+Access+Granted!" alt="Typing SVG" />
+
+  <br/>
+
+  <!-- HackTheBox Badge -->
+  <a href="https://app.hackthebox.com/profile/2035208">
+    <img src="https://www.hackthebox.com/badge/image/2035208" alt="HackTheBox" />
+  </a>
+  
+  <br/><br/>
+
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TwinWhales&show_icons=true&theme=radical&include_all_commits=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwinWhales&layout=compact&theme=radical&hide=html,css" alt="Top Langs" />
+
 </div>
 
-<h2 align="center"> 💻 Tools 💻</h2>
-<!-- 도구들 -->
+<br/>
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+## 🛠 Command Center (Tech Stack)
 
-<img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3"/>&nbsp;
-<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+### 🕵️ Digital Forensics & Security
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logo=ghidra&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+### 💻 Core Operations
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 
-<h2 align="center"> 📚 Studying 📚</h2>
+### 📡 Database & Backend
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<br/>
 
-<img src="https://img.shields.io/badge/Node.Js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<!-- Flask -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TwinWhales&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
 
+<br/>
 
-<h2 align="center"> 📫 Contact 📫</h2>
-
-
-<!--
-- 노션
-- 이메일 추가하기
-- htb
--->
-
-<a href="https://www.notion.so/Twin-Whales-16fb3d3cd58d8020b64ce6d9442d51b2?pvs=4">
-    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<div align="center"> 
+  <h3>📫 Encrypted Channel</h3>
+  <a href="https://www.notion.so/Twin-Whales-16fb3d3cd58d8020b64ce6d9442d51b2?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-HQ-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
-
-
-
-📗📕📘📙
+</div>
