@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:00c6ff&height=200&section=header&text=TwinWhales&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Digital%20Forensic%20Analyst%20%26%20Security%20Researcher&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007bff&height=200&section=header&text=TwinWhales&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Digital%20Forensic%20Analyst&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
@@ -15,16 +15,16 @@
   <br/><br/>
 
   <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TwinWhales&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwinWhales&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide=html,css" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TwinWhales&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TwinWhales&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 </div>
 
 <br/>
 
-## � Forensic Laboratory
+## 🔬 Forensic Laboratory
 
-### � Analysis & Investigation
+### 🔎 Analysis & Investigation
 <img src="https://img.shields.io/badge/Autopsy-Forensics-007BFF?style=flat-square&logo=blue&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/EnCase-Forensic-0056b3?style=flat-square&logo=security&logoColor=white"/>
@@ -44,7 +44,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TwinWhales&theme=tokyonight&hide_border=true&background=00000000" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TwinWhales&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br/>
